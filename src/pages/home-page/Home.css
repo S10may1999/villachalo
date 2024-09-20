@@ -1,0 +1,28 @@
+:root {
+    --font-family: "Red Hat Display", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
+      "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    --primary-main: #b73735;
+    --primary-contrast-text: #ffffff;
+    --primary-light: #b737357f;
+    --primary-dark: #b737351a;
+    --secondary-main: #ffffff;
+    --secondary-contrast-text: #484848;
+    --root-background: #ffffff;
+    --header-background: #ffffff;
+  }
+  html {
+    background: var(--root-background);
+    color: var(--secondary-contrast-text);
+    opacity: 1;
+  }
+  body {
+    font-family: var(--font-family);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  body[data-scrollable="false"] {
+    overflow: hidden;
+  }
+  .portal {
+    overflow: auto;
+  }
