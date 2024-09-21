@@ -17,129 +17,129 @@ function Collections() {
                 <div class="property-location-module__container___LpNcO home-module__sectionContent___UmJtY">
                     <a class="location-anchor-module__location___ZEqHp" href="villas/india/goa.html">
                         <picture class="img-module__picture___wiM80 location-anchor-module__image___tvY77">
-                            <source media="(max-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <source media="(min-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <img src="https://via.placeholder.com/100x100" alt="Goa" loading="lazy" class="img-module__image___Kpwp0 image" />
+                            <source media="(max-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" />
+                            <source media="(min-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" />
+                            <img src="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" alt="Goa" loading="lazy" class="img-module__image___Kpwp0 image" />
                         </picture>
                         <div class="location-anchor-module__title___XE-xK title">Goa</div>
                     </a>
-                    <a class="location-anchor-module__location___ZEqHp" href="villas/india/srinagar.html">
+                    <a class="location-anchor-module__location___ZEqHp" href="villas/india/jaipur.html">
                         <picture class="img-module__picture___wiM80 location-anchor-module__image___tvY77">
-                            <source media="(max-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <source media="(min-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <img src="https://via.placeholder.com/100x100" alt="Srinagar / Pahalgam" loading="lazy" class="img-module__image___Kpwp0 image" />
+                            <source media="(max-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <source media="(min-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <img src="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" alt="Jaipur" loading="lazy" class="img-module__image___Kpwp0 image" />
                         </picture>
-                        <div class="location-anchor-module__title___XE-xK title">Srinagar / Pahalgam</div>
+                        <div class="location-anchor-module__title___XE-xK title">Srinagar</div>
                     </a>
                     <a class="location-anchor-module__location___ZEqHp" href="villas/india/mussoorie.html">
                         <picture class="img-module__picture___wiM80 location-anchor-module__image___tvY77">
-                            <source media="(max-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <source media="(min-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <img src="https://via.placeholder.com/100x100" alt="Mussoorie / Dehradun" loading="lazy" class="img-module__image___Kpwp0 image" />
+                            <source media="(max-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <source media="(min-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <img src="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" alt="Mussoorie / Dehradun" loading="lazy" class="img-module__image___Kpwp0 image" />
                         </picture>
                         <div class="location-anchor-module__title___XE-xK title">Mussoorie / Dehradun</div>
                     </a>
-                    <a class="location-anchor-module__location___ZEqHp" href="villas/india/lonavala.html">
+                    <a class="location-anchor-module__location___ZEqHp" href="villas/india/jaipur.html">
                         <picture class="img-module__picture___wiM80 location-anchor-module__image___tvY77">
-                            <source media="(max-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <source media="(min-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <img src="https://via.placeholder.com/100x100" alt="Lonavala / Khandala" loading="lazy" class="img-module__image___Kpwp0 image" />
+                            <source media="(max-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <source media="(min-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <img src="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" alt="Jaipur" loading="lazy" class="img-module__image___Kpwp0 image" />
                         </picture>
-                        <div class="location-anchor-module__title___XE-xK title">Lonavala / Khandala</div>
-                    </a>
-                    <a class="location-anchor-module__location___ZEqHp" href="villas/india/coorg.html">
-                        <picture class="img-module__picture___wiM80 location-anchor-module__image___tvY77">
-                            <source media="(max-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <source media="(min-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <img src="https://via.placeholder.com/100x100" alt="Coorg" loading="lazy" class="img-module__image___Kpwp0 image" />
-                        </picture>
-                        <div class="location-anchor-module__title___XE-xK title">Coorg</div>
-                    </a>
-                    <a class="location-anchor-module__location___ZEqHp" href="villas/india/coonoor.html">
-                        <picture class="img-module__picture___wiM80 location-anchor-module__image___tvY77">
-                            <source media="(max-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <source media="(min-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <img src="https://via.placeholder.com/100x100" alt="Coonoor" loading="lazy" class="img-module__image___Kpwp0 image" />
-                        </picture>
-                        <div class="location-anchor-module__title___XE-xK title">Coonoor</div>
-                    </a>
-                    <a class="location-anchor-module__location___ZEqHp" href="villas/india/alibaug.html">
-                        <picture class="img-module__picture___wiM80 location-anchor-module__image___tvY77">
-                            <source media="(max-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <source media="(min-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <img src="https://via.placeholder.com/100x100" alt="Alibaug" loading="lazy" class="img-module__image___Kpwp0 image" />
-                        </picture>
-                        <div class="location-anchor-module__title___XE-xK title">Alibaug</div>
+                        <div class="location-anchor-module__title___XE-xK title">Lonavala</div>
                     </a>
                     <a class="location-anchor-module__location___ZEqHp" href="villas/india/jaipur.html">
                         <picture class="img-module__picture___wiM80 location-anchor-module__image___tvY77">
-                            <source media="(max-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <source media="(min-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <img src="https://via.placeholder.com/100x100" alt="Jaipur" loading="lazy" class="img-module__image___Kpwp0 image" />
+                            <source media="(max-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <source media="(min-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <img src="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" alt="Jaipur" loading="lazy" class="img-module__image___Kpwp0 image" />
+                        </picture>
+                        <div class="location-anchor-module__title___XE-xK title">Jaipur</div>
+                    </a>
+                    <a class="location-anchor-module__location___ZEqHp" href="villas/india/coonoor.html">
+                        <picture class="img-module__picture___wiM80 location-anchor-module__image___tvY77">
+                            <source media="(max-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <source media="(min-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <img src="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" alt="Coonoor" loading="lazy" class="img-module__image___Kpwp0 image" />
+                        </picture>
+                        <div class="location-anchor-module__title___XE-xK title">Coonoor</div>
+                    </a>
+                    <a class="location-anchor-module__location___ZEqHp" href="villas/india/jaipur.html">
+                        <picture class="img-module__picture___wiM80 location-anchor-module__image___tvY77">
+                            <source media="(max-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <source media="(min-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <img src="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" alt="Jaipur" loading="lazy" class="img-module__image___Kpwp0 image" />
+                        </picture>
+                        <div class="location-anchor-module__title___XE-xK title">Mahabaleshwar</div>
+                    </a>
+                    <a class="location-anchor-module__location___ZEqHp" href="villas/india/jaipur.html">
+                        <picture class="img-module__picture___wiM80 location-anchor-module__image___tvY77">
+                            <source media="(max-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <source media="(min-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <img src="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" alt="Jaipur" loading="lazy" class="img-module__image___Kpwp0 image" />
                         </picture>
                         <div class="location-anchor-module__title___XE-xK title">Jaipur</div>
                     </a>
                     <a class="location-anchor-module__location___ZEqHp" href="villas/india/mahabaleshwar.html">
                         <picture class="img-module__picture___wiM80 location-anchor-module__image___tvY77">
-                            <source media="(max-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <source media="(min-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <img src="https://via.placeholder.com/100x100" alt="Mahabaleshwar" loading="lazy" class="img-module__image___Kpwp0 image" />
+                            <source media="(max-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <source media="(min-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <img src="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" alt="Mahabaleshwar" loading="lazy" class="img-module__image___Kpwp0 image" />
                         </picture>
                         <div class="location-anchor-module__title___XE-xK title">Mahabaleshwar</div>
                     </a>
                     <a class="location-anchor-module__location___ZEqHp" href="villas/india/karjat.html">
                         <picture class="img-module__picture___wiM80 location-anchor-module__image___tvY77">
-                            <source media="(max-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <source media="(min-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <img src="https://via.placeholder.com/100x100" alt="Karjat" loading="lazy" class="img-module__image___Kpwp0 image" />
+                            <source media="(max-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" />
+                            <source media="(min-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" />
+                            <img src="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" alt="Karjat" loading="lazy" class="img-module__image___Kpwp0 image" />
                         </picture>
                         <div class="location-anchor-module__title___XE-xK title">Karjat</div>
                     </a>
                     <a class="location-anchor-module__location___ZEqHp" href="villas/india/rishikesh.html">
                         <picture class="img-module__picture___wiM80 location-anchor-module__image___tvY77">
-                            <source media="(max-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <source media="(min-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <img src="https://via.placeholder.com/100x100" alt="Rishikesh" loading="lazy" class="img-module__image___Kpwp0 image" />
+                            <source media="(max-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <source media="(min-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <img src="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" alt="Rishikesh" loading="lazy" class="img-module__image___Kpwp0 image" />
                         </picture>
                         <div class="location-anchor-module__title___XE-xK title">Rishikesh</div>
                     </a>
                     <a class="location-anchor-module__location___ZEqHp" href="villas/india/bhimtal.html">
                         <picture class="img-module__picture___wiM80 location-anchor-module__image___tvY77">
-                            <source media="(max-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <source media="(min-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <img src="https://via.placeholder.com/100x100" alt="Bhimtal" loading="lazy" class="img-module__image___Kpwp0 image" />
+                            <source media="(max-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" />
+                            <source media="(min-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" />
+                            <img src="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" alt="Bhimtal" loading="lazy" class="img-module__image___Kpwp0 image" />
                         </picture>
                         <div class="location-anchor-module__title___XE-xK title">Bhimtal</div>
                     </a>
                     <a class="location-anchor-module__location___ZEqHp" href="villas/india/jimcorbett.html">
                         <picture class="img-module__picture___wiM80 location-anchor-module__image___tvY77">
-                            <source media="(max-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <source media="(min-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <img src="https://via.placeholder.com/100x100" alt="Jim Corbett" loading="lazy" class="img-module__image___Kpwp0 image" />
+                            <source media="(max-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" />
+                            <source media="(min-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" />
+                            <img src="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" alt="Jim Corbett" loading="lazy" class="img-module__image___Kpwp0 image" />
                         </picture>
                         <div class="location-anchor-module__title___XE-xK title">Jim Corbett</div>
                     </a>
                     <a class="location-anchor-module__location___ZEqHp" href="villas/india/udaipur.html">
                         <picture class="img-module__picture___wiM80 location-anchor-module__image___tvY77">
-                            <source media="(max-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <source media="(min-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <img src="https://via.placeholder.com/100x100" alt="Udaipur" loading="lazy" class="img-module__image___Kpwp0 image" />
+                            <source media="(max-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <source media="(min-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <img src="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" alt="Udaipur" loading="lazy" class="img-module__image___Kpwp0 image" />
                         </picture>
                         <div class="location-anchor-module__title___XE-xK title">Udaipur</div>
                     </a>
                     <a class="location-anchor-module__location___ZEqHp" href="villas/india/gurgaon.html">
                         <picture class="img-module__picture___wiM80 location-anchor-module__image___tvY77">
-                            <source media="(max-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <source media="(min-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <img src="https://via.placeholder.com/100x100" alt="Gurgaon" loading="lazy" class="img-module__image___Kpwp0 image" />
+                            <source media="(max-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" />
+                            <source media="(min-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" />
+                            <img src="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" alt="Gurgaon" loading="lazy" class="img-module__image___Kpwp0 image" />
                         </picture>
                         <div class="location-anchor-module__title___XE-xK title">Gurgaon</div>
                     </a>
                     <a class="location-anchor-module__location___ZEqHp" href="villas/india/pench.html">
                         <picture class="img-module__picture___wiM80 location-anchor-module__image___tvY77">
-                            <source media="(max-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <source media="(min-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <img src="https://via.placeholder.com/100x100" alt="Pench" loading="lazy" class="img-module__image___Kpwp0 image" />
+                            <source media="(max-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <source media="(min-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <img src="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" alt="Pench" loading="lazy" class="img-module__image___Kpwp0 image" />
                         </picture>
                         <div class="location-anchor-module__title___XE-xK title">Pench</div>
                     </a>
@@ -148,41 +148,40 @@ function Collections() {
                 <div class="property-location-module__container___LpNcO home-module__sectionContent___UmJtY">
                     <a class="location-anchor-module__location___ZEqHp" href="villas/indonesia/bali.html">
                         <picture class="img-module__picture___wiM80 location-anchor-module__image___tvY77">
-                            <source media="(max-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <source media="(min-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <img src="https://via.placeholder.com/100x100" alt="Bali" loading="lazy" class="img-module__image___Kpwp0 image" />
+                            <source media="(max-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" />
+                            <source media="(min-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" />
+                            <img src="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" alt="Bali" loading="lazy" class="img-module__image___Kpwp0 image" />
                         </picture>
                         <div class="location-anchor-module__title___XE-xK title">Bali</div>
                     </a>
                     <a class="location-anchor-module__location___ZEqHp" href="villas/thailand/phuket.html">
                         <picture class="img-module__picture___wiM80 location-anchor-module__image___tvY77">
-                            <source media="(max-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <source media="(min-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <img src="https://via.placeholder.com/100x100" alt="Phuket" loading="lazy" class="img-module__image___Kpwp0 image" />
+                            <source media="(max-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <source media="(min-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <img src="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" alt="Phuket" loading="lazy" class="img-module__image___Kpwp0 image" />
                         </picture>
                         <div class="location-anchor-module__title___XE-xK title">Phuket</div>
                     </a>
                     <a class="location-anchor-module__location___ZEqHp" href="villas/thailand/koh-samui.html">
                         <picture class="img-module__picture___wiM80 location-anchor-module__image___tvY77">
-                            <source media="(max-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <source media="(min-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <img src="https://via.placeholder.com/100x100" alt="Koh Samui" loading="lazy" class="img-module__image___Kpwp0 image" />
+                            <source media="(max-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" />
+                            <source media="(min-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" alt="Koh Samui" loading="lazy" class="img-module__image___Kpwp0 image" />
                         </picture>
                         <div class="location-anchor-module__title___XE-xK title">Koh Samui</div>
                     </a>
                     <a class="location-anchor-module__location___ZEqHp" href="villas/maldives/maldives.html">
                         <picture class="img-module__picture___wiM80 location-anchor-module__image___tvY77">
-                            <source media="(max-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <source media="(min-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <img src="https://via.placeholder.com/100x100" alt="Maldives" loading="lazy" class="img-module__image___Kpwp0 image" />
+                            <source media="(max-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <source media="(min-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                            <img src="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" alt="Maldives" loading="lazy" class="img-module__image___Kpwp0 image" />
                         </picture>
                         <div class="location-anchor-module__title___XE-xK title">Maldives</div>
                     </a>
                     <a class="location-anchor-module__location___ZEqHp" href="villas/srilanka/sri-lanka.html">
                         <picture class="img-module__picture___wiM80 location-anchor-module__image___tvY77">
-                            <source media="(max-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <source media="(min-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                            <img src="https://via.placeholder.com/100x100" alt="Sri Lanka" loading="lazy" class="img-module__image___Kpwp0 image" />
+                            <source media="(max-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" />
+                            <source media="(min-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" />
+                            <img src="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" alt="Sri Lanka" loading="lazy" class="img-module__image___Kpwp0 image" />
                         </picture>
                         <div class="location-anchor-module__title___XE-xK title">Sri Lanka</div>
                     </a>
@@ -207,9 +206,9 @@ function Collections() {
                     <div class="recommendation-module__item___velyy" data-index="0">
                         <a href="villas/india/coonoor/amani-villas-8b.html" class="recommendation-module__property___sVkIg" title="Amani Villas 8B ">
                             <picture class="img-module__picture___wiM80 recommendation-module__thumbnail___-fTW7">
-                                <source media="(max-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                                <source media="(min-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                                <img loading="lazy" src="https://via.placeholder.com/100x100" alt="Facade | Amani Villas- Coonoor" class="img-module__image___Kpwp0 image" />
+                                <source media="(max-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" />
+                                <source media="(min-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" />
+                                <img loading="lazy" src="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" alt="Facade | Amani Villas- Coonoor" class="img-module__image___Kpwp0 image" />
                             </picture>
                             <div class="recommendation-module__title___2XdZz">Amani Villas 8B </div>
                             <div class="recommendation-module__subtitle___+ksNW">Coonoor, Tamil Nadu, India</div>
@@ -224,9 +223,9 @@ function Collections() {
                     <div class="recommendation-module__item___velyy" data-index="1">
                         <a href="villas/india/goa/villa-feliz.html" class="recommendation-module__property___sVkIg" title="Villa Feliz">
                             <picture class="img-module__picture___wiM80 recommendation-module__thumbnail___-fTW7">
-                                <source media="(max-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                                <source media="(min-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                                <img loading="lazy" src="https://via.placeholder.com/100x100" alt="Facade | Villa Feliz by Lohono Stays " class="img-module__image___Kpwp0 image" />
+                                <source media="(max-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                                <source media="(min-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" />
+                                <img loading="lazy" src="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/isp-igreha-vaddo-villa-d/DSC_2324.jpg" alt="Facade | Villa Feliz by Lohono Stays " class="img-module__image___Kpwp0 image" />
                             </picture>
                             <div class="recommendation-module__title___2XdZz">Villa Feliz</div>
                             <div class="recommendation-module__subtitle___+ksNW">Assagaon, Goa, India</div>
@@ -240,9 +239,9 @@ function Collections() {
                     <div class="recommendation-module__item___velyy" data-index="2">
                         <a href="villas/india/gurgaon/beri-house.html" class="recommendation-module__property___sVkIg" title="Sadhrana Bagh - Beri House">
                             <picture class="img-module__picture___wiM80 recommendation-module__thumbnail___-fTW7">
-                                <source media="(max-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                                <source media="(min-width: 768px)" srcSet="https://via.placeholder.com/100x100" />
-                                <img loading="lazy" src="https://via.placeholder.com/100x100" alt="Beri House - Facade" class="img-module__image___Kpwp0 image" />
+                                <source media="(max-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" />
+                                <source media="(min-width: 768px)" srcSet="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" />
+                                <img loading="lazy" src="https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/monforte-vaddo-b/04_Poolside.jpeg" alt="Beri House - Facade" class="img-module__image___Kpwp0 image" />
                             </picture>
                             <div class="recommendation-module__title___2XdZz">Sadhrana Bagh - Beri House</div>
                             <div class="recommendation-module__subtitle___+ksNW">Gurgaon, NCR, India</div>
